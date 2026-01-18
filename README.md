@@ -39,7 +39,7 @@ I specialize in:
 
 | Project | Description | Live |
 |--------|-------------|------|
-| **[BMToolkit](https://github.com/abdouthematrix/BMToolkit)** | Financial calculator for secured/unsecured loans | — |
+| **[BMToolkit](https://github.com/abdouthematrix/BMToolkit)** | Financial calculator for secured/unsecured loans | [🔗](https://abdouthematrix.github.io/BMToolkit) |
 | **[Investment & Loan Scenarios](https://github.com/abdouthematrix/abdouthematrix.github.io/blob/main/sloan.html)** | Interactive financial simulation | [🔗](https://abdouthematrix.github.io/sloan.html) |
 | **[AIn-Web](https://github.com/abdouthematrix/AIn-Web)** | Attendance & workforce management system (PWA) | [🔗](https://abdouthematrix.github.io/AIn-Web) |
 | **[BMATM](https://github.com/abdouthematrix/BMATM)** | ATM operations & cash reconciliation tool | — |
